@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DisasterIntel Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  >
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Real-time disaster intelligence</p>
+        <h1>Layered crisis mapping with verified event context</h1>
+      </div>
+      <div class="hero-side">
+        <div class="hero-controls">
+          <button id="refresh-button" type="button">Refresh Data</button>
+          <button id="rerun-button" type="button">Rerun Ingestion</button>
+        </div>
+        <div id="ingestion-status" class="ingestion-banner">Ingestion status idle.</div>
+        <div class="hero-metrics" id="summary-cards"></div>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel map-panel">
+        <div class="panel-header">
+          <div>
+            <p class="panel-kicker">GIS dashboard</p>
+            <h2>Layered disaster map</h2>
+          </div>
+          <div class="map-actions">
+            <label><input type="checkbox" checked data-layer-toggle="events"> Events</label>
+            <label><input type="checkbox" checked data-layer-toggle="weather"> Severe weather</label>
+            <label><input type="checkbox" checked data-layer-toggle="correlated"> Correlated alerts</label>
+          </div>
+        </div>
+        <div id="map"></div>
+      </section>
+
+      <aside class="sidebar">
+        <section class="panel usp-panel">
+          <div class="panel-header">
+            <div>
+              <p class="panel-kicker">Intelligence signals</p>
+              <h2>USP stack</h2>
+            </div>
+          </div>
+          <div id="usp-metrics" class="usp-grid"></div>
+        </section>
+
+        <section class="panel priority-panel">
+          <div class="panel-header">
+            <div>
+              <p class="panel-kicker">Operational priorities</p>
+              <h2>Top incidents to brief</h2>
+            </div>
+          </div>
+          <div id="priority-incidents" class="priority-list"></div>
+        </section>
+
+        <section class="panel timeline-panel">
+          <div class="panel-header">
+            <div>
+              <p class="panel-kicker">Unified event timeline</p>
+              <h2>Fused incident feed</h2>
+            </div>
+          </div>
+          <div id="timeline" class="timeline"></div>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+{
+  "source": "news",
+  "ingestion": {
+    "name": "news",
+    "ok": true,
+    "status": "ok",
+    "duration_seconds": 10.33,
+    "item_count": 3,
+    "error": null
+  },
+  "payload": [
+    {
+      "post_id": "8cf48b95ca8c",
+      "source_platform": "news",
+      "author": null,
+      "content": "arrow-downcommentsprintersearchbelltop-navright-arrowleft-arrowarrow-down\n\nAdvertisement\n\n[![](<Base64-Image-Removed>)](https://www.ndtv.com/)\n\nEdition\n\n[![INDIA](https://drop.ndtv.com/images/india-flag-icon.svg)\\\\\n\\\\\nINDIA](https://www.ndtv.com/#pfrom=home-ndtvworld_nav_web_edition \"NDTV\") [![World](https://drop.ndtv.com/images/world-globeNew.svg)\\\\\n\\\\\nWorld](https://www.ndtv.com/world/#pfrom=home-ndtvworld_nav_web_edition \"NDTV World\")\n\nSearch here\n\n- choose your destination\n\n\n\n  - [Hindi](https://ndtv.in/)\n  - [Marathi](https://marathi.ndtv.com/)\n  - [MPCG](https://mpcg.ndtv.in/)\n  - [Rajasthan](https://rajasthan.ndtv.in/)\n\n- News Updates\n\n  - [Live TV](https://www.ndtv.com/video/live/channel/ndtv24x7?pfrom=home-ndtv_nav_wap)\n  - [India](https://www.ndtv.com/india?pfrom=home-ndtv_nav_wap)\n  - [![](https://drop.ndtv.com/homepage/images/spotlight.svg)](https://www.ndtv.com/spotlight?pfrom=home-ndtv_nav_wap)\n  - [Beeps](https://www.ndtv.com/beeps/?pfrom=home-ndtv_nav_wap)\n  - [Latest](https://www.ndtv.com/latest?pfrom=home-ndtv_nav_wap)\n  - [Video](https://www.ndtv.com/video?pfrom=home-ndtv_nav_wap)\n  - [Podcast](https://www.ndtv.com/podcast?pfrom=home-ndtv_nav_wap)\n  - [Lifestyle](https://www.ndtv.com/lifestyle?pfrom=home-ndtv_nav_wap)\n- News Updates\n\n\n\n  - [Elections](https://www.ndtv.com/elections?pfrom=home-ndtv_nav_wap)\n  - [Profit](https://www.ndtvprofit.com/?pfrom=home-ndtv_nav_wap)\n  - [Movies](https://www.ndtv.com/entertainment?pfrom=home-ndtv_nav_wap)\n  - [Cricket](https://sports.ndtv.com/cricket?pfrom=home-ndtv_nav_wap)\n  - [Cities](https://www.ndtv.com/cities?pfrom=home-ndtv_nav_wap)\n  - [Good Times](https://www.ndtvgoodtimes.com/?pfrom=home-ndtv_nav_wap)\n\n- Featured\n\n\n\n  - [Notifications](https://www.ndtv.com/notifications?pfrom=home-ndtv_nav_wap)\n  - [Opinion](https://www.ndtv.com/opinion?pfrom=home-ndtv_nav_wap)\n  - [Web Stories](https://www.ndtv.com/webstories?pfrom=home-ndtv_nav_wap)\n  - [Trends](https://www.ndtv.com/trends?pfrom=home-ndtv_nav_wap)\n",
+      "timestamp": "2026-03-24T10:59:52.500806+00:00",
+      "location": null,
+      "url": "https://www.ndtv.com/topic/natural-disaster",
+      "disaster_type": "flood",
+      "is_disaster_related": true,
+      "relevance_score": 0.55,
+      "sentiment": null,
+      "credibility_score": 0.75
+    },
+    {
+      "post_id": "2e642458282c",
+      "source_platform": "news",
+      "author": null,
+      "content": "Edition\n\nIN\n\n- [IN](https://timesofindia.indiatimes.com/)\n- [US](https://timesofindia.indiatimes.com/us)\n\nEnglish\n\n- [English](https://timesofindia.indiatimes.com/)\n- [\u0939\u093f\u0928\u094d\u0926\u0940](https://navbharattimes.indiatimes.com/)\n- [\u092e\u0930\u093e\u0920\u0940](https://marathi.indiatimes.com/)\n- [\u0c95\u0ca8\u0ccd\u0ca8\u0ca1](https://vijaykarnataka.com/)\n- [\u0ba4\u0bae\u0bbf\u0bb4\u0bcd](https://tamil.samayam.com/)\n- [\u09ac\u09be\u0982\u09b2\u09be](https://bangla.indiatimes.com/)\n- [\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02](https://malayalam.samayam.com/)\n- [\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41](https://telugu.samayam.com/)\n- [\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0](https://www.iamgujarat.com/)\n\n[Weather](https://timesofindia.indiatimes.com/weather)\n\nSign In\n\n[![](https://static.toiimg.com/photo/79638690.cms)](https://timesofindia.indiatimes.com/)\n\n- [News](https://timesofindia.indiatimes.com/)\n- [Topic](https://timesofindia.indiatimes.com/topic/natural-disaster)\n\nYou have searched for\n\n# natural disaster\n\n, Showing 10000 results\n\n[All(10000)](https://timesofindia.indiatimes.com/topic/natural-disaster) [Articles(14432)](https://timesofindia.indiatimes.com/topic/natural-disaster/news) [Videos(99)](https://timesofindia.indiatimes.com/topic/natural-disaster/videos) [Photos(95)](https://timesofindia.indiatimes.com/topic/natural-disaster/photos)\n\n## natural disaster News\n\n[![](https://static.toiimg.com/thumb/129738074.jpg?photoid=129738074&imgsize=123456&width=300&resizemode=4)\\\\\n\\\\\nHimachal SDRF retains top spot at national rescue event \\\\\n\\\\\nTNN / Mar 23, 2026, 04:32 (IST)](https://timesofindia.indiatimes.com/city/chandigarh/himachal-sdrf-retains-top-spot-at-national-rescue-event/articleshow/129738074.cms)\n\n[![](https://static.toiimg.com/thumb/129541972.jpg?photoid=129541972&imgsize=123456&width=300&resizemode=4)\\\\\n\\\\\nJapan still haunted: 80% fear another disaster 15 years after the deadly 2011 earthquake \\\\\n\\\\\nTIMESOFINDIA.COM / Mar 13, 2026, 13:30 (IST)](https://timesofindia.indiatimes.com/world/rest-of-world/japan-still-haunted-80-fear-another-disaster-15-years-after-the-deadly-2011-earthquake/articleshow/129541972.cms)\n\n[![](https://static.toiimg.com/thumb/129726",
+      "timestamp": "2026-03-24T10:59:54.352457+00:00",
+      "location": null,
+      "url": "https://timesofindia.indiatimes.com/topic/natural-disaster",
+      "disaster_type": "flood",
+      "is_disaster_related": true,
+      "relevance_score": 0.55,
+      "sentiment": null,
+      "credibility_score": 0.75
+    },
+    {
+      "post_id": "102a2d6c2802",
+      "source_platform": "news",
+      "author": null,
+      "content": "**BREAKING**\n\n[Iran denies US President Donald Trump\u2019s claim that it wants to make a deal](https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake) [Several reported killed in air attack on Iran-aligned armed group in Iraq](https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake) [Building in northern Israel damaged after latest Iranian missile attack](https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake)\n\nClick to pause breaking news tickerpause-square-backgroundClose Breaking News Tickerclose\n\n# Page not found\n\n_Sorry, we can't find the page that you are looking for. Don't let that stop you from visiting some of our other great related content._\n\nsearch\n\nprotected by **reCAPTCHA**\n\n* * *\n\nYour browser does not support the audio element.\n\naudio-rewind\n\naudio-play\n\naudio-forward\n\n* * *\n\naudio-volume-mute\n\nclose",
+      "timestamp": "2026-03-24T10:59:55.910925+00:00",
+      "location": null,
+      "url": "https://www.aljazeera.com/tag/natural-disasters/",
+      "disaster_type": null,
+      "is_disaster_related": false,
+      "relevance_score": 0.0,
+      "sentiment": null,
+      "credibility_score": 0.75
+    }
+  ]
+}

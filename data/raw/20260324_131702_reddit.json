@@ -1,0 +1,11 @@
+{
+  "source": "reddit",
+  "ingestion": {
+    "name": "reddit",
+    "ok": true,
+    "duration_seconds": 1.07,
+    "item_count": 0,
+    "error": null
+  },
+  "payload": []
+}

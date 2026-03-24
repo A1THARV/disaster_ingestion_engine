@@ -1,0 +1,15 @@
+{
+  "source": "imd",
+  "ingestion": {
+    "name": "imd",
+    "ok": true,
+    "status": "empty",
+    "duration_seconds": 0.75,
+    "item_count": 0,
+    "error": null
+  },
+  "payload": [
+    [],
+    []
+  ]
+}

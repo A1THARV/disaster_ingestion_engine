@@ -1,0 +1,11 @@
+{
+  "source": "usgs",
+  "ingestion": {
+    "name": "usgs",
+    "ok": true,
+    "duration_seconds": 0.31,
+    "item_count": 0,
+    "error": null
+  },
+  "payload": []
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "pipeline_run": "2026-03-24T07:47:29.749149+00:00",
+    "completed": "2026-03-24T07:47:31.015073+00:00",
+    "duration_seconds": 1.265924,
+    "sources_queried": [
+      "open_meteo",
+      "imd",
+      "usgs",
+      "gdacs",
+      "reddit",
+      "news"
+    ],
+    "healthy_sources": [],
+    "empty_sources": [
+      "open_meteo",
+      "imd",
+      "usgs",
+      "gdacs",
+      "reddit",
+      "news"
+    ],
+    "failed_sources": []
+  },
+  "summary": {
+    "total_events": 0,
+    "critical_events": 0,
+    "high_severity_events": 0,
+    "moderate_events": 0,
+    "weather_snapshots": 0,
+    "social_posts_analyzed": 0,
+    "correlated_alerts": 0,
+    "avg_confidence_score": 0
+  },
+  "ingestion": {
+    "sources": [
+      {
+        "name": "open_meteo",
+        "ok": true,
+        "status": "empty",
+        "duration_seconds": 0.25,
+        "item_count": 0,
+        "error": null
+      },
+      {
+        "name": "imd",
+        "ok": true,
+        "status": "empty",
+        "duration_seconds": 0.25,
+        "item_count": 0,
+        "error": null
+      },
+      {
+        "name": "usgs",
+        "ok": true,
+        "status": "empty",
+        "duration_seconds": 0.25,
+        "item_count": 0,
+        "error": null
+      },
+      {
+        "name": "gdacs",
+        "ok": true,
+        "status": "empty",
+        "duration_seconds": 0.25,
+        "item_count": 0,
+        "error": null
+      },
+      {
+        "name": "reddit",
+        "ok": true,
+        "status": "empty",
+        "duration_seconds": 1.04,
+        "item_count": 0,
+        "error": null
+      },
+      {
+        "name": "news",
+        "ok": true,
+        "status": "empty",
+        "duration_seconds": 0.02,
+        "item_count": 0,
+        "error": null
+      }
+    ],
+    "success_rate": 0.0
+  },
+  "correlated_alerts": [],
+  "events": [],
+  "timeline": [],
+  "severe_weather": [],
+  "social_intelligence": {
+    "total_posts": 0,
+    "disaster_related": 0,
+    "top_posts": []
+  }
+}

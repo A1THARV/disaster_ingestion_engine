@@ -1,0 +1,11 @@
+{
+  "source": "gdacs",
+  "ingestion": {
+    "name": "gdacs",
+    "ok": true,
+    "duration_seconds": 0.28,
+    "item_count": 0,
+    "error": null
+  },
+  "payload": []
+}

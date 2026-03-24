@@ -1,0 +1,11 @@
+{
+  "source": "news",
+  "ingestion": {
+    "name": "news",
+    "ok": true,
+    "duration_seconds": 0.04,
+    "item_count": 0,
+    "error": null
+  },
+  "payload": []
+}
